@@ -1,8 +1,8 @@
 # InvoiceCrop
 The program takes in an image and crops the necessary tables. The table is set to Black and White, rotated, and denoised. 
-Most image formats are supported, however, it is important to put the proper extension in the file variable.
+<br />Most image formats are supported, however, it is important to put the proper extension in the file variable.
 
-To run:
+To run: \
 	1. Ensure the necessary packages are installed.
 	2. Set the file variable to the path of your image (for Linux short path should be available, such as "./sample_image.jpg" or "sample_image.jpg")
 	3. Execute "python run.py" in the appropriate directory

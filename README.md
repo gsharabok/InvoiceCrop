@@ -13,5 +13,5 @@ Points to note: \
 	   If the quality is too bad, the words could become indistinguishable. \
 	2. In most cases, there is only one table for the invoice so only res1.jpg will be created. Otherwise, multiple files will be created. \
 	3. If a different output format is needed names inside cv2.imwrite() can be changed. \
-	4. Tilted images will be corrected. However, this does not apply to tiny tilt, since the available tools are not this precise. \ 
-	5. To install packages type "pip install -r requirements.txt" \
+	4. Tilted images will be corrected. However, this does not apply to tiny tilt, since the available tools are not this precise. \
+	5. To install packages type "pip install -r requirements.txt"

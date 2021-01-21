@@ -2,20 +2,17 @@
 The program takes in an image and crops the necessary tables. The table is set to Black and White, rotated, and denoised. \
 Most image formats are supported, however, it is important to put the proper extension in the file variable. 
 
-![alt text](https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image.jpg?raw=true) 
-![alt_text](https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png?raw=true)
-
 <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image.jpg" />
 <p align="center">
   <img width="400" height="400" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png">
 </p>
 
-<img align="left" width="500" height="500" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png">
-<img align="right" width="500" height="500" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png">
+<img align="left" width="450" height="450" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png">
+<img align="right" width="450" height="450" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png">
 
 ### To run:  
 <br/>
-	1. Ensure the necessary packages are installed. \
+	1. Ensure the necessary packages are installed. <br/>
 	2. Set the file variable to the path of your image (for Linux short path should be available, such as "./sample_image.jpg" or "sample_image.jpg") \
 	3. Execute "python run.py" in the appropriate directory \
 	4. The results are saved in the current folder with names in the format res(number).jpg \

@@ -2,6 +2,8 @@
 The program takes in an image and crops the necessary tables. The table is set to Black and White, rotated, and denoised. \
 Most image formats are supported, however, it is important to put the proper extension in the file variable. 
 
+---
+
 <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image.jpg" />
 <p align="center">
   <img width="180" height="180" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png">

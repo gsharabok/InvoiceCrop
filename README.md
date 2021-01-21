@@ -8,8 +8,8 @@ Most image formats are supported, however, it is important to put the proper ext
 </p>
 
 <p float="left">
-  <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png" width="370" />
-  <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png" width="370" /> 
+  <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png" width=400" />
+  <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png" width="400" /> 
 </p>
 
 ---

@@ -4,7 +4,7 @@ Most image formats are supported, however, it is important to put the proper ext
 
 <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image.jpg" />
 <p align="center">
-  <img width="250" height="250" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png">
+  <img width="180" height="180" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png">
 </p>
 
 <p float="left">
@@ -22,8 +22,7 @@ Most image formats are supported, however, it is important to put the proper ext
 	</p>
 	
 <h2> Points to note:  </h2>
-<p>	1. If the image quality is high enough, the image will be contrasted and changed to pure black and white. This is the perfect scenario. <br>
-	   If the quality is too bad, the words could become indistinguishable. <br>
+<p>	1. If the image quality is high enough, the image will be contrasted and changed to pure black and white. This is the perfect scenario. If the quality is too bad, the words could become indistinguishable. <br>
 	2. In most cases, there is only one table for the invoice so only res1.jpg will be created. Otherwise, multiple files will be created. <br>
 	3. If a different output format is needed names inside cv2.imwrite() can be changed. <br>
 	4. Tilted images will be corrected. However, this does not apply to tiny tilt, since the available tools are not this precise. <br>

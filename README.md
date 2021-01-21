@@ -5,7 +5,13 @@ Most image formats are supported, however, it is important to put the proper ext
 ![alt text](https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image.jpg?raw=true) 
 ![alt_text](https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png?raw=true)
 
-<img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image.jpg" width="200" height="200" />
+<img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image.jpg" />
+<p align="center">
+  <img width="400" height="400" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png">
+</p>
+
+<img align="left" width="500" height="500" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png">
+<img align="right" width="500" height="500" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png">
 
 ### To run:  
 <br/>

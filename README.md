@@ -7,8 +7,18 @@ Most image formats are supported, however, it is important to put the proper ext
   <img width="250" height="250" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/down_arrow.png">
 </p>
 
-<img align="left" width="300" height="300" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png">
-<img align="right" width="300" height="300" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png">
+<img align="left" width="370" height="370" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png">
+<img align="right" width="370" height="370" src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png">
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png)  |  ![](https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png)
+
+
+<p float="left">
+  <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image0_out.png" width="100" />
+  <img src="https://github.com/gsharabok/InvoiceCrop/blob/main/imgs/sample_image1_out.png" width="100" /> 
+</p>
 
 ---
 
@@ -18,10 +28,11 @@ Most image formats are supported, however, it is important to put the proper ext
 	3. Execute "python run.py" in the appropriate directory <br>
 	4. The results are saved in the current folder with names in the format res(number).jpg <br>
 	</p>
-### Points to note:  
-	1. If the image quality is high enough, the image will be contrasted and changed to pure black and white. This is the perfect scenario. \
-	   If the quality is too bad, the words could become indistinguishable. \
-	2. In most cases, there is only one table for the invoice so only res1.jpg will be created. Otherwise, multiple files will be created. \
-	3. If a different output format is needed names inside cv2.imwrite() can be changed. \
-	4. Tilted images will be corrected. However, this does not apply to tiny tilt, since the available tools are not this precise. \
+### Points to note: 
+<p>	1. If the image quality is high enough, the image will be contrasted and changed to pure black and white. This is the perfect scenario. <br>
+	   If the quality is too bad, the words could become indistinguishable. <br>
+	2. In most cases, there is only one table for the invoice so only res1.jpg will be created. Otherwise, multiple files will be created. <br>
+	3. If a different output format is needed names inside cv2.imwrite() can be changed. <br>
+	4. Tilted images will be corrected. However, this does not apply to tiny tilt, since the available tools are not this precise. <br>
 	5. To install packages type "pip install -r requirements.txt"
+	</p>
